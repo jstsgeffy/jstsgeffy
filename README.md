@@ -1,5 +1,5 @@
 # 💫 Hai, Saya Angga
-Saya adalah seorang fullstack developer.
+Saya adalah seorang fullstack developer junior
 
 
 ## 🌐 Socials:
